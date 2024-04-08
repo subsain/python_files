@@ -1,3 +1,1 @@
-# python_files
-<br>
-author subhash sain
+Basic Python : variable, data types and first program of python
