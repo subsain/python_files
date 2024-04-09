@@ -21,4 +21,4 @@ print('**************************')
 val = { 'Id': 112,'Name': 'Harsh'}
 print(f"Id of {val['Name']} is {val['Id']}",'\n')
 
-print('***************************')
+print('*******END OF THE TASK*******')
