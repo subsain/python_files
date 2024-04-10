@@ -328,7 +328,7 @@ res = [lis[1] for lis in test_list]
 # printing result
 print ("List with only nth tuple element (i.e names) : " + str(res),'\n')
 
-print('******Using a for loop***********','\n')
+print('*********************************Using a for loop*************************','\n')
 # initializing list of tuples
 test_list = [(1, 'Rash', 21), (2, 'Varsha', 20), (3, 'Kil', 19)]
 
