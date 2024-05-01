@@ -1,1 +1,7 @@
-Basic of python : variable, data types and simple python program
+Python
+Machine Learning
+NLP
+Tensorflow
+OpenAI APY Key
+Langchain
+Data Aanlysis
